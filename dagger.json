@@ -1,0 +1,7 @@
+{
+  "name": "iac",
+  "sdk": "go",
+  "dependencies": [
+    "github.com/matipan/daggerverse/pulumi@93d21e24fb8c069e701e0af1719a870ceead2f8b"
+  ]
+}
